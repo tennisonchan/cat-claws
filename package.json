@@ -3,14 +3,15 @@
   "version": "0.0.1",
   "description": "Cat claws for scraping",
   "keywords": [
+    "cat",
     "cats",
+    "claws",
+    "node-module",
+    "nodejs",
     "scrape",
     "scraper",
-    "cat",
     "scraping",
-    "claws",
-    "nodejs",
-    "node"
+    "scraping-websites"
   ],
   "license": "MIT",
   "author": "Tennison Chan <tennison.chan+cat-claws@gmail.com>",
