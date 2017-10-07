@@ -1,0 +1,38 @@
+{
+  "name": "cat-claws",
+  "version": "0.0.1",
+  "description": "Cat claws for scraping",
+  "keywords": [
+    "cats",
+    "scrape",
+    "scraper",
+    "cat",
+    "scraping",
+    "claws",
+    "nodejs",
+    "node"
+  ],
+  "license": "MIT",
+  "author": "Tennison Chan <tennison.chan+cat-claws@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tennisonchan/cat-claws.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tennisonchan/cat-claws/issues"
+  },
+  "homepage": "https://github.com/tennisonchan/cat-claws#readme",
+  "main": "lib/index.js",
+  "devDependencies": {
+    "lien": "^1.0.1",
+    "tester": "^1.3.2"
+  },
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  },
+  "scripts": {
+    "test": "node test"
+  }
+}
